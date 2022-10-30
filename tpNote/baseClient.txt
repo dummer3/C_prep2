@@ -1,0 +1,7 @@
+Jean ;Dupont ;01/01/1999 ;jean.dupont@mail.com ;1
+Dupont ;Jean ;02/01/1999 ;jean.dupont@mail.com ;0
+Jean ;Dupont ;02/01/1999 ;jean.dupont@mail.com ;1
+Jean ;Dupont ;NONE ;jean.dupont@mail.com ;0
+Jean ;Dupont ;03/02/2001 ;NONE ;0
+Jean ;Malandrin ;03/02/2001 ;NONE ;0
+a ;b ;14/10/2001 ;moi@gmail ;0
